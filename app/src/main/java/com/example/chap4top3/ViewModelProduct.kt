@@ -14,6 +14,9 @@ class ViewModelProduct : ViewModel() {
         Product("Sampurna Splash Merah",R.drawable.splashmerah,"25.800","Rokok"),
         Product("Camel Purple",R.drawable.camelungu,"16.000","Rokok"),
         Product("Juara Kretek",R.drawable.juarakretek,"11.000","Rokok"),
+        Product("Djarum Super",R.drawable.djarum,"19.000","Rokok"),
+        Product("Berry Pop",R.drawable.berrypop,"28.000","Rokok"),
+        Product("Honey Pop",R.drawable.honeypop,"28.000","Rokok"),
 
     )
 //bikin live data
